@@ -8,6 +8,7 @@ type Emotion = "Esperanza" | "Alegría" | "Tristeza" | "Resiliencia" | "Miedo" |
 interface Props {
   emotion: Emotion
   isThinking?: boolean
+  intensity: number // 0 a 1
 }
 
 interface Leaf {
@@ -18,7 +19,7 @@ interface Leaf {
   state?: "alive" | "falling" | "growing"
 }
 
-export default function InteractiveTree({ emotion, isThinking = false }: Props) {
+export default function InteractiveTree({ emotion, isThinking = false, intensity }: Props) {
   const controls = useAnimation()
   const [scale, setScale] = useState(1.0)
   const [leaves, setLeaves] = useState<Leaf[]>(() => generateInitialLeaves(12))
