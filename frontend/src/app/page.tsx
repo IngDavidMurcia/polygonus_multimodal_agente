@@ -24,12 +24,20 @@ export default function Home() {
         >
           Hablar con el Árbol
         </a>
+        <a
+          href="/mihistoria"
+          className="px-6 py-3 bg-teal-950 text-white rounded-lg shadow hover:bg-blue-700 transition"
+      >
+          Ver mi historia
+        </a>
+
+
       </div>
 
       {/* Imagen Hero */}
       <div className="mt-12 max-w-3xl">
         <img
-          src="/images/renacer.jpg"
+          src="https://res.cloudinary.com/dqmzeguwn/image/upload/f_webp,q_auto/renacer_tac7p7.png"
           alt="Árbol milenario al amanecer"
           className="rounded-2xl shadow-xl"
         />

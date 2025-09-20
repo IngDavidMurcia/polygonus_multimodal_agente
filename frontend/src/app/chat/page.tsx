@@ -68,7 +68,7 @@ export default function ChatPage() {
       {/* Panel izquierdo: Chat */}
       <div className="flex flex-col w-1/2 h-full bg-gradient-to-b from-green-50 to-amber-100 border-r">
         {/* Header */}
-        <header className="bg-green-900 text-white py-3 px-6 text-center font-bold text-lg shadow">
+        <header className="bg-neutral-900 text-white py-3 px-6 text-center font-bold text-lg shadow">
           🌳 Chat con el Árbol Archivista
         </header>
 
