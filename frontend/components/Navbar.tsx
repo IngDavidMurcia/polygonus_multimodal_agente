@@ -37,7 +37,7 @@ export default function Navbar() {
           </div>
 
           {/* Botón hamburguesa móvil */}
-          <div className="md:hidden">
+          <div className="flex md:hidden">
             <button
               onClick={() => setIsOpen(!isOpen)}
               className="p-2 rounded-md hover:bg-green-800 focus:outline-none"
