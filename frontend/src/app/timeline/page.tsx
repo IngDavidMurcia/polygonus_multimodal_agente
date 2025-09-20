@@ -133,7 +133,7 @@ export default function TimelinePage() {
                 {memoriasOrdenadas.map((m, idx) => (
                   <div
                     key={idx}
-                    ref={(el) => (pointsRef.current[idx] = el)}
+                    ref={(el) => {pointsRef.current[idx] = el}}
                     className="flex flex-col items-center relative min-w-[120px]"
                   >
                     {/* Punto + Año */}
