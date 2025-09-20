@@ -21,7 +21,7 @@ function detectEmotionFromText(text: string): "Esperanza" | "Alegría" | "Triste
 
 export default function ChatPage() {
   const [messages, setMessages] = useState<Message[]>([
-    { sender: "bot", text: "🌳 Hola, soy el Árbol Archivista. Pregúntame sobre mis memorias." },
+    { sender: "bot", text: "🍃 Hola, soy el Archivista. Agent GAR,  Pregúntame sobre mis memorias. (aun soy un mock, api en desarrollo)" },
   ])
   const [input, setInput] = useState("")
   const [isThinking, setIsThinking] = useState(false)
@@ -69,7 +69,7 @@ export default function ChatPage() {
       <div className="flex flex-col w-1/2 h-full bg-gradient-to-b from-green-50 to-amber-100 border-r">
         {/* Header */}
         <header className="bg-neutral-900 text-white py-3 px-6 text-center font-bold text-lg shadow">
-          🌳 Chat con el Árbol Archivista
+          🌳 Chat con el Árbol Archivista, con análisis de sentimientos 😄😫😭, En construcción...🚧
         </header>
 
         {/* Chat body */}
