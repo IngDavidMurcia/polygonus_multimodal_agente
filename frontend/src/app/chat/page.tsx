@@ -21,7 +21,7 @@ function detectEmotionFromText(text: string): "Esperanza" | "Alegría" | "Triste
 
 export default function ChatPage() {
   const [messages, setMessages] = useState<Message[]>([
-    { sender: "bot", text: "🍃 Hola, soy el Archivista. Agent GAR,  Pregúntame sobre mis memorias. (aun soy un mock, api en desarrollo)" },
+    { sender: "bot", text: "🍃 Hola, soy el Archivista. Agent RAG,  Pregúntame sobre mis memorias. (aun soy un mock, api en desarrollo)" },
   ])
   const [input, setInput] = useState("")
   const [isThinking, setIsThinking] = useState(false)

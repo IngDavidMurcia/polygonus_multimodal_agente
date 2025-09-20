@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Título largo sin truncate */}
           <div className="flex-shrink-0 font-bold text-lg sm:text-xl md:text-2xl leading-tight">
-            Uso de IAs Generativas y Agente GAR - Checkpoint 3 y 7
+            Uso de IAs Generativas y Agente RAG - Checkpoint 3 y 7
           </div>
 
           {/* Links de navegación */}
