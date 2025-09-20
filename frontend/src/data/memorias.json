@@ -1,0 +1,137 @@
+[
+  {
+    "title": "El nacimiento en la montaña",
+    "text": "Nací como un pequeño brote en la ladera húmeda de la montaña, donde los riachuelos me dieron la primera caricia de vida.",
+    "image": "/images/nacimiento.jpg",
+    "audio": "/audio/nacimiento.mp3",
+    "date": "Año 1025",
+    "location": "Montañas del sur",
+    "emotion": "Esperanza"
+  },
+  {
+    "title": "La primera lluvia",
+    "text": "Recuerdo la primera lluvia que me dio fuerza. Cada gota era un susurro de esperanza en la tierra seca.",
+    "image": "/images/lluvia.jpg",
+    "audio": "/audio/lluvia.mp3",
+    "date": "Año 1030",
+    "location": "Valle del río",
+    "emotion": "Gratitud"
+  },
+  {
+    "title": "El canto de los pájaros",
+    "text": "Durante mis primeros siglos, bandadas enteras anidaban en mis ramas. Cada amanecer era un concierto de vida.",
+    "image": "/images/pajaros.jpg",
+    "audio": "/audio/pajaros.mp3",
+    "date": "Año 1100",
+    "location": "Bosque denso",
+    "emotion": "Alegría"
+  },
+  {
+    "title": "El fuego cercano",
+    "text": "Hubo un día en que el bosque ardió. El calor me alcanzó, pero permanecí firme, testigo del renacer.",
+    "image": "/images/fuego.jpg",
+    "audio": "/audio/fuego.mp3",
+    "date": "Año 1200",
+    "location": "Bosque profundo",
+    "emotion": "Resiliencia"
+  },
+  {
+    "title": "Sombras de cazadores",
+    "text": "Vi pasar cazadores que perseguían animales. Algunos descansaban bajo mi sombra, otros tallaban en mi corteza sus símbolos.",
+    "image": "/images/cazadores.jpg",
+    "audio": "/audio/cazadores.mp3",
+    "date": "Año 1250",
+    "location": "Sendero del bosque",
+    "emotion": "Inquietud"
+  },
+  {
+    "title": "El poblado cercano",
+    "text": "Cuando los humanos construyeron chozas cerca, me convertí en su centinela. Escuchaba sus risas, sus canciones y sus penas.",
+    "image": "/images/poblado.jpg",
+    "audio": "/audio/poblado.mp3",
+    "date": "Año 1350",
+    "location": "Aldea del valle",
+    "emotion": "Curiosidad"
+  },
+  {
+    "title": "El sabio del pueblo",
+    "text": "Un anciano venía cada luna llena a sentarse bajo mis ramas. Me contaba historias que aún resuenan en mi savia.",
+    "image": "/images/sabio.jpg",
+    "audio": "/audio/sabio.mp3",
+    "date": "Año 1400",
+    "location": "Aldea del valle",
+    "emotion": "Sabiduría"
+  },
+  {
+    "title": "El paso de los guerreros",
+    "text": "Tropas armadas marcharon frente a mí. Algunos descansaron bajo mi sombra antes de continuar hacia la batalla.",
+    "image": "/images/guerreros.jpg",
+    "audio": "/audio/guerreros.mp3",
+    "date": "Año 1500",
+    "location": "Sendero del bosque",
+    "emotion": "Tensión"
+  },
+  {
+    "title": "Los niños jugando",
+    "text": "Generaciones de niños treparon mis ramas. Sus risas aún resuenan en mis hojas cuando el viento sopla.",
+    "image": "/images/ninos.jpg",
+    "audio": "/audio/ninos.mp3",
+    "date": "Año 1600",
+    "location": "Aldea cercana",
+    "emotion": "Alegría"
+  },
+  {
+    "title": "La tormenta furiosa",
+    "text": "Un rayo me partió en dos. Mis ramas ardieron, pero sobreviví. Desde entonces crecí con más fuerza.",
+    "image": "/images/tormenta.jpg",
+    "audio": "/audio/tormenta.mp3",
+    "date": "Año 1700",
+    "location": "Bosque alto",
+    "emotion": "Dolor"
+  },
+  {
+    "title": "El viajero solitario",
+    "text": "Un hombre cansado acampó bajo mis raíces. Lloró toda la noche y al amanecer siguió su camino. Nunca lo olvidé.",
+    "image": "/images/viajero.jpg",
+    "audio": "/audio/viajero.mp3",
+    "date": "Año 1750",
+    "location": "Sendero del bosque",
+    "emotion": "Melancolía"
+  },
+  {
+    "title": "El silencio del invierno",
+    "text": "Durante inviernos crudos, todo a mi alrededor parecía morir. Pero bajo la nieve, yo guardaba la promesa de un renacer.",
+    "image": "/images/invierno.jpg",
+    "audio": "/audio/invierno.mp3",
+    "date": "Año 1800",
+    "location": "Montañas nevadas",
+    "emotion": "Resiliencia"
+  },
+  {
+    "title": "El siglo de la soledad",
+    "text": "Muchos de mis hermanos fueron talados. Quedé en pie, como un guardián solitario que atestigua lo perdido.",
+    "image": "/images/soledad.jpg",
+    "audio": "/audio/soledad.mp3",
+    "date": "Año 1900",
+    "location": "Claro del bosque",
+    "emotion": "Tristeza"
+  },
+  {
+    "title": "La llegada de máquinas",
+    "text": "Vi a los humanos talar el bosque con herramientas de hierro. El rugido de las sierras cambió para siempre el entorno.",
+    "image": "/images/maquinas.jpg",
+    "audio": "/audio/maquinas.mp3",
+    "date": "Año 1950",
+    "location": "Linde del bosque",
+    "emotion": "Miedo"
+  },
+  {
+    "title": "El renacer de la esperanza",
+    "text": "Nuevas generaciones plantaron árboles a mi alrededor. El bosque volvió a crecer y yo sonreí en silencio.",
+    "image": "/images/renacer.jpg",
+    "audio": "/audio/renacer.mp3",
+    "date": "Año 2025",
+    "location": "Reserva natural",
+    "emotion": "Esperanza"
+  }
+]
